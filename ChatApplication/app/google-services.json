@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089210959493",
+    "firebase_url": "https://chatapplication-9fbd0.firebaseio.com",
+    "project_id": "chatapplication-9fbd0",
+    "storage_bucket": "chatapplication-9fbd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089210959493:android:d78ed22a19b13729",
+        "android_client_info": {
+          "package_name": "com.example.sangeet.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089210959493-7r7vnb2okqgms362sagua2rc0q4kj21q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjKLAVkBvLxDqtSHG5aMjb_HUG7YBbcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089210959493-7r7vnb2okqgms362sagua2rc0q4kj21q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
